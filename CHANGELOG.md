@@ -1,3 +1,15 @@
+- willie-lin/cloud-controller-manager-ppc64le:v1.8.7-beta.0
+- willie-lin/cloud-controller-manager-ppc64le:v1.9.0-alpha.3
+- willie-lin/cloud-controller-manager-ppc64le:v1.7.13-beta.0
+- willie-lin/cloud-controller-manager-ppc64le:v1.8.4
+- willie-lin/cloud-controller-manager-ppc64le:v1.9.4-beta.0
+- willie-lin/cloud-controller-manager-ppc64le:v1.8.9
+- willie-lin/cloud-controller-manager-ppc64le:v1.7.14
+- willie-lin/cloud-controller-manager-ppc64le:v1.8.10-beta.0
+- willie-lin/cloud-controller-manager-ppc64le:v1.7.15-beta.0
+- willie-lin/cloud-controller-manager-ppc64le:v1.10.0-beta.3
+- willie-lin/cloud-controller-manager-ppc64le:v1.7.15
+- willie-lin/cloud-controller-manager-ppc64le:v1.7.16-beta.0
 - willie-lin/cloud-controller-manager-ppc64le:v1.7.16
 - willie-lin/cloud-controller-manager-ppc64le:v1.11.0-alpha.2
 - willie-lin/cloud-controller-manager-ppc64le:v1.10.2
