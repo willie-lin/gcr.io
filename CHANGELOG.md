@@ -1,3 +1,4 @@
+- willie-lin/hyperkube:v1.7.11
 - willie-lin/hyperkube:v1.10.0
 - willie-lin/hyperkube:v1.7.16-beta.0
 - willie-lin/hyperkube:v1.7.13
